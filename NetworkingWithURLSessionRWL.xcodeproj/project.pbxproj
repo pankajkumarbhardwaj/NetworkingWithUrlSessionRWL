@@ -26,7 +26,7 @@
 		B75604F52397773A00F96B1C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B75604F82397773A00F96B1C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B75604FA2397773A00F96B1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B75605022397780200F96B1C /* Basic.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B75605022397780200F96B1C /* URL_SessionBasic.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = URL_SessionBasic.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B7E5711723B737C8007CD142 /* DowenloadingData.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DowenloadingData.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B7EEF7872398F7A70094FA41 /* 3_PriorityAndCachingPolicy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 3_PriorityAndCachingPolicy.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -84,7 +84,7 @@
 		B7560501239777E300F96B1C /* PlayGround */ = {
 			isa = PBXGroup;
 			children = (
-				B75605022397780200F96B1C /* Basic.playground */,
+				B75605022397780200F96B1C /* URL_SessionBasic.playground */,
 				B71CF7A12398E1170083C779 /* 2_MakingPostRequest.playground */,
 				B7EEF7872398F7A70094FA41 /* 3_PriorityAndCachingPolicy.playground */,
 				B72BCB9C23A1F9F80048F334 /* UploadingData.playground */,
